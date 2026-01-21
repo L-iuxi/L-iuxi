@@ -1,0 +1,21 @@
+
+name: Pac-Man GitHub Contributions
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 每天运行一次
+  workflow_dispatch:       # 可以手动触发
+
+jobs:
+  pacman:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Run Pac-Man contributions
+        uses: ricardo-ch/pacman-commit@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.actor }}
+
