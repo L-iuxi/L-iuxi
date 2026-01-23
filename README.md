@@ -1,4 +1,4 @@
 # Hello ^^
 
-![Pac-Man](https://github.com/L-iuxi/L-iuxi/actions/workflows/pacman.yml/badge.svg)
+![Snake eating my contributions](https://raw.githubusercontent.com/L-iuxi/L-iuxi/output/snake.svg)
 
