@@ -8,13 +8,18 @@ I mainly work with Go, C/C++, and Linux, and I'm particularly interested in back
 
 Currently, I'm exploring:
 
-🐹 Go & Backend Development
-🧩 Distributed Systems & Storage
-🐧 Linux & Operating Systems
-🛠️ Building things from scratch
+-🐹 Go & Backend Development
+
+-🧩 Distributed Systems & Storage
+
+-🐧 Linux & Operating Systems
+
+-🛠️ Building things from scratch
 
 Contact Me：
+
 📧Email:915988179@qq.com
 
 Learn About ME:
+
 [MyDraft](https://l-iuxi.github.io/HMBlogs/)
